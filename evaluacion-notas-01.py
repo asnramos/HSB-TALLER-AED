@@ -3,11 +3,11 @@ def evaluacion(promedio):
     if promedio >= 6:
         estado = "APROBADO"
         if promedio == 10:
-            estado = "APROBADO y es EL ABANDERADO"
+            estado = "APROBADO es ABANDERADO"
         if promedio == 9:
-            estado = "APROBADO y es 1er Escolta"
+            estado = "APROBADO es 1er Escolta"
         if promedio == 8:
-            estado = "APROBADO y es 2do Escolta"
+            estado = "APROBADO es 2do Escolta"
     else:
         estado = "DESAPROBADO"
         
