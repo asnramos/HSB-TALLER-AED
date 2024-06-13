@@ -5,8 +5,12 @@ print(datos.columns.values)
 
 #['ORDEN' 'ESCUELA' 'TIPO DE EJEMPLAR' 'NOMBRE' 'CLASE' 'GENERO']
 
+# Codigo para ASIGNAR o RENOMBRAR, NOMBRES o ENCABEZADOS de columnas
+# Para RENOMBRAR deben coincidir la cantidad de columnas
+#datos.columns = ['ORDEN', 'ESCUELA', 'DNI_TIPO', 'DNI_NRO', 'APELLIDOS', 'NOMBRES', 'NACIMIENTO_CLASE', 'GENERO', 'DOMICILIO',
+#                 'CIUDAD_LOCALIDAD', 'DEPARTAMENTO', 'ESTADO']
+
 print(datos)
-##DNI_CONSULTA = input 41820982
 print("========================================================")
 
 CONSULTA = 'BETSABE AMERICA'
