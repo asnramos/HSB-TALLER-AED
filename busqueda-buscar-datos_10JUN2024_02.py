@@ -50,5 +50,20 @@ print("========================================================")
 print("DATASET Resultante (Filas x Columnas): ", busqueda.shape)
 print("--------------------------------------------------------")
 print (busqueda)
-print("========================================================")    
+print("========================================================")
+
+# Otra forma de BUSQUEDA de INFORMACION
+# valor = 1974
+# resultado = datos[datos['NACIMIENTO_CLASE'] == valor]
+
+#busqueda #informacion #Pandas
+# valor = 'GOMORY'
+# resultado = datos[datos['APELLIDO'] == valor]
+
+#Gomory Jorge Profesor, [17/4/2024 19:56]
+#ahora busco los mayores de 50 años (2024 - 1974 = 50)
+
+# valor = 1974
+# resultado = datos[datos['NACIMIENTO_CLASE'] < valor]
+# print(resultado)                        
 
