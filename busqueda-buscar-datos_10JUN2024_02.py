@@ -5,10 +5,6 @@ print(datos.columns.values)
 
 #['ORDEN' 'ESCUELA' 'TIPO DE EJEMPLAR' 'NOMBRE' 'CLASE' 'GENERO']
 
-#datos.columns = ['ORDEN', 'ESCUELA', 'TIPO DE EJEMPLAR', 'MATRICULA', 'APELLIDO', 'NOMBRE', 'CLASE', 'GENERO', 'DOMICILIO',
- #                'SECCION', 'CIRCUITO', 'MESA.1', 'ORDEN_MESA', 'ESCUELA.1', 'TX_SECC_NUMERO', 'TX_CIRC_NUMERO']
-
-
 print(datos)
 ##DNI_CONSULTA = input 41820982
 print("========================================================")
