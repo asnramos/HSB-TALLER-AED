@@ -13,7 +13,7 @@
   </p>
 <td width="33%">
   <p align="right">
-  <img src="" width="200" height="200" border="10"/>
+  <img src="seu_unsa.jpg" width="200" height="200" border="10"/>
   </p>
 </td>
 </tr>
